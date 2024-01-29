@@ -1,0 +1,3 @@
+mdiapipe
+opencv-python
+openai
